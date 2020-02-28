@@ -1,0 +1,11 @@
+/Users/GarrettFreshwater/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro
+/Users/GarrettFreshwater/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.deps.json
+/Users/GarrettFreshwater/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.runtimeconfig.json
+/Users/GarrettFreshwater/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.runtimeconfig.dev.json
+/Users/GarrettFreshwater/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.dll
+/Users/GarrettFreshwater/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.pdb
+/Users/GarrettFreshwater/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.csprojAssemblyReference.cache
+/Users/GarrettFreshwater/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.AssemblyInfoInputs.cache
+/Users/GarrettFreshwater/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.AssemblyInfo.cs
+/Users/GarrettFreshwater/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.dll
+/Users/GarrettFreshwater/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.pdb
