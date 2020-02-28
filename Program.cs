@@ -35,6 +35,10 @@ namespace ListIntro
                 Console.WriteLine (cohort);
             }
 
+            birthYears.Add (1996);
+            birthYears.Add (1996);
+            birthYears.Add (1996);
+            birthYears.Remove (1996);
             birthYears.Remove (1996);
 
             foreach (int year in birthYears)
@@ -45,9 +49,21 @@ namespace ListIntro
                 {
                     Console.WriteLine ("Holden was born😈😈😈😈");
                     Console.WriteLine ("Oh and Go Bulls🏀🏀🏀🏀");
-
                 }
             }
+
+            //Dictionaries
+            Dictionary<string, string> student = new Dictionary<string, string> ();
+
+            student.Add ("Name", "Adam");
+            student.Add ("Cohort", "Day 37");
+            student.Add ("Name", "Garrett");
+            student.Add ("Name", "Mac");
+            student.Add ("Name", "Holden");
+
+            Dictionary<string, string> anotherStudent = new Dictionary<string, string> ()
+            { { "Name", "Brenda" }, { "Cohort", "Day 37" }
+            };
         }
     }
 }
